@@ -12,6 +12,7 @@ import { AiOutlineThunderbolt } from "react-icons/ai";
 import { TbBoxMultiple } from "react-icons/tb";
 import Searchbar from "../components/searchbar";
 
+
 export default function Home() {
   return (
     <div>
@@ -94,7 +95,7 @@ export default function Home() {
             {/* Centered content */}
             <div className="absolute  bottom-6 inset-x-0 flex flex-col items-center justify-center text-white text-center">
               <div className="hidden md:hidden lg:flex ">
-                <Searchbar />
+                <Searchbar/>
               </div>
 
               <p className="text-sm  font-medium mt-3">

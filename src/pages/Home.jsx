@@ -10,7 +10,7 @@ import {
 import { TiMessages } from "react-icons/ti";
 import { AiOutlineThunderbolt } from "react-icons/ai";
 import { TbBoxMultiple } from "react-icons/tb";
-import Searchbar from "../components/searchbar";
+import Searchbar from "../components/Searchbar";
 
 
 export default function Home() {

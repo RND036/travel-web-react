@@ -1,7 +1,7 @@
 import React from "react";
 import Navbars from "./Navbars";
 import { Card } from "flowbite-react";
-import Searchbar from "./searchbar";
+import Searchbar from "./Searchbar";
 
 export default function Header() {
   return (
